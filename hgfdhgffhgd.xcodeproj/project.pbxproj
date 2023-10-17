@@ -14,6 +14,7 @@
 		3FCF33BC2ADE8F9D0039F663 /* hgfdhgffhgdTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FCF33BB2ADE8F9D0039F663 /* hgfdhgffhgdTests.swift */; };
 		3FCF33C62ADE8F9D0039F663 /* hgfdhgffhgdUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FCF33C52ADE8F9D0039F663 /* hgfdhgffhgdUITests.swift */; };
 		3FCF33C82ADE8F9D0039F663 /* hgfdhgffhgdUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FCF33C72ADE8F9D0039F663 /* hgfdhgffhgdUITestsLaunchTests.swift */; };
+		3FCF33D52ADE8FF00039F663 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FCF33D42ADE8FF00039F663 /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		3FCF33C12ADE8F9D0039F663 /* hgfdhgffhgdUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hgfdhgffhgdUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FCF33C52ADE8F9D0039F663 /* hgfdhgffhgdUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hgfdhgffhgdUITests.swift; sourceTree = "<group>"; };
 		3FCF33C72ADE8F9D0039F663 /* hgfdhgffhgdUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hgfdhgffhgdUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3FCF33D42ADE8FF00039F663 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				3FCF33AC2ADE8F9D0039F663 /* ContentView.swift */,
 				3FCF33AE2ADE8F9D0039F663 /* Assets.xcassets */,
 				3FCF33B02ADE8F9D0039F663 /* Preview Content */,
+				3FCF33D42ADE8FF00039F663 /* CardView.swift */,
 			);
 			path = hgfdhgffhgd;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FCF33AD2ADE8F9D0039F663 /* ContentView.swift in Sources */,
+				3FCF33D52ADE8FF00039F663 /* CardView.swift in Sources */,
 				3FCF33AB2ADE8F9D0039F663 /* hgfdhgffhgdApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
